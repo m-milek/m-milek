@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi!
+Previously, I was a [GitLab user](https://gitlab.com/mmilek).
 
 <!--
 **m-milek/m-milek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
